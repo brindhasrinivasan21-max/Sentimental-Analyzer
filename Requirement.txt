@@ -1,0 +1,5 @@
+| Library            | Purpose                                                       | Installation Command                           |
+| ------------------ | ------------------------------------------------------------- | ---------------------------------------------- |
+| **TextBlob**       | For sentiment analysis (calculates polarity and subjectivity) | `pip install textblob`                         |
+| **Tabulate**       | To display data in a nice table format in the terminal        | `pip install tabulate`                         |
+| **CSV (built-in)** | For saving results to a CSV file                              | *(No installation needed — comes with Python)* |
