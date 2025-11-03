@@ -1,0 +1,21 @@
+Analyze the **mood and emotion** of local news headlines using simple Natural Language Processing (NLP)!  
+This project automatically classifies each news story as **Positive 😊, Negative 😔, or Neutral 😐** and generates a clear report with CSV export.
+
+---
+
+## ✨ Features
+- 📰 Predefined local news headlines  
+- ✍️ Add your own custom news stories interactively  
+- 🧠 Automatic sentiment polarity scoring using **TextBlob**  
+- 📋 Tabulated output for readability (using `tabulate`)  
+- 📊 Summary report of all sentiments  
+- 💾 Exports results to a **CSV file**
+
+---
+
+## 🧰 Tech Stack
+- **Language:** Python 🐍  
+- **Libraries:** TextBlob, Tabulate  
+- **Output Format:** Console + CSV  
+
+---
